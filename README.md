@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Run Buddy Inc.
 
 ## Purpose
